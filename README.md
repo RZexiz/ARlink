@@ -25,7 +25,7 @@ project-folder/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zexiz-portfolio.git
+   git clone https://github.com/rzexiz/ARlink.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -35,7 +35,7 @@ project-folder/
 
 ### Live Preview
 For an online preview, consider hosting the site on:
-- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages][(https://pages.github.com/](https://github.com/RZexiz))
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
 
