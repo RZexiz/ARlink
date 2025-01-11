@@ -24,12 +24,12 @@ project-folder/
 ### Installation
 1. Clone the repository:
    
-bash
+```bash```
    git clone https://github.com/RZexiz/zexiz-portfolio.git
 
 2. Navigate to the project folder:
    
-bash
+```bash```
    cd zexiz-portfolio
 
 3. Open index.html in your browser to view the website.
