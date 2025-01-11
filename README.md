@@ -9,7 +9,10 @@ A simple portfolio website to showcase personal projects, skills, and contact in
 - **Responsive Design**: Adaptable layout for various screen sizes.
 
 ## Folder Structure
-project-folder/ ├── index.html # Main HTML file ├── style.css # CSS for styling └── README.md # Documentation file
+project-folder/
+├── index.html       # Main HTML file
+├── style.css        # CSS for styling
+└── README.md        # Documentation file
 
 bash
 Copy code
